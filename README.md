@@ -37,7 +37,7 @@ The goal was to implement a `Pet` class with various attributes and methods to s
 2. Run the program:
    ```bash
    python main.py
-##🖥️ Sample Output
+## 🖥️ Sample Output
 ```bash
 Pet name: Buddy
 Hunger: 2
