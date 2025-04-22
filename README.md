@@ -32,8 +32,9 @@ The goal was to implement a `Pet` class with various attributes and methods to s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Evans-mutuku/OOP-Challenge
-   cd OOP-Challenge
+   git clone https://github.com/Inst3p428/OOP-PYTHONCHALLENGE552.git
+
+   cd OOP-PYTHONCHALLENGE552
 2. Run the program:
    ```bash
    python main.py
